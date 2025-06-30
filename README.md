@@ -35,10 +35,10 @@ O estado do jogo é representado por um vetor binário de 7 bits:
    git clone https://github.com/seu-usuario/q-learning.git
    cd q-learning
 3. Abra o jogo "Amongois"
-4. Descomente a linha 'agent.train_agent(s)' no final do arquivo se quiser realizar o treinamento antes de testar
+4. Descomente a linha 'agent.trainAgent(socket)' no final do arquivo se quiser realizar o treinamento antes de testar
 5. Rode a página 'client.py': python client.py
    
 ## 👩🏻‍💻 Equipe
-- Ana Lívia Pessoa <alcp>
-- Fernanda Neves <fmn>
-- Sara Lustosa <sccl>
+- Ana Lívia da Costa Pessoa <alcp>
+- Fernanda Marques Neves <fmn>
+- Sara Carvalho Coelho Lustosa <sccl>
